@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #121212; /* Dark background */
+    color: #e0e0e0; /* Light text color */
+}
+
+header {
+    background: #1f1f1f; /* Darker header */
+    color: #ffffff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #bb86fc; /* Light purple for links */
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #1f1f1f; /* Darker footer */
+    color: #ffffff;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Section styles */
+section {
+    background: #2a2a2a; /* Darker section background */
+    margin: 15px 0;
+    padding: 15px;
+    border-radius: 5px; /* Rounded corners */
+}
+
+h2 {
+    color: #bb86fc; /* Light purple for headings */
+}
